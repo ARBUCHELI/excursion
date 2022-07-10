@@ -1,19 +1,30 @@
-html {
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
     background-color: black;
-}
-
-h1 {
-    font-family: Verdana;
-    font-weight: normal;
-    font-size: 50px;
     color: white;
 }
 
-a {
-    color: aquamarine;
+.cta {
+    color: Aquamarine;
     font-size: 16px;
 }
 
-.header {
-    text-align: center;
+h1 {
+    font-size: 50px;
+    font-weight: normal;
 }
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+} 
